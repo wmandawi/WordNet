@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=wordnet
+comment0.target=Outcast(WordNet)
+comment1.params=nouns
+comment1.target=java.lang.String\ outcast(java.lang.String[])
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
